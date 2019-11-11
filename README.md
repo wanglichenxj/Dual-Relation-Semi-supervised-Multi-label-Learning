@@ -1,1 +1,1 @@
-# Dual-Relation-Semi-supervised-Multi-label-Learning
+# Dual Relation Semi-supervised Multi-label Learning
