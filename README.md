@@ -30,7 +30,7 @@ The code will be available soon. Feel free to send email if you have any questio
 ## Authors
 Welcome to send us Emails if you have any questions about the code and our work :-)
 * **Lichen Wang** [Website](https://sites.google.com/site/lichenwang123/)
-* **Yunyu Liu** [Website](http://allanding.net/)
+* **Yunyu Liu** [Website](https://wenwen0319.github.io/)
 * **Can Qin** [Website](https://scholar.google.com/citations?user=QCik-YcAAAAJ&hl=en)
 * **Gan Sun** [Website](https://scholar.google.com/citations?user=U4a4FLIAAAAJ&hl=en)
 * **Yun Raymond Fu** [Website](http://www1.ece.neu.edu/~yunfu/)
