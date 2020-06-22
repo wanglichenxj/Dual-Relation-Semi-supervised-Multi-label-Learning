@@ -25,7 +25,11 @@ DRML includes a novel domain adaptation co-training strategy and a label relatio
 
 
 ## Running the code
-The code will be available soon. Feel free to send email if you have any questions!
+We combine all components of our model in a single python file. We run our code in Anaconda environment. We use Tensorflow and please see the code for the detailed package information. After config the environment, input the command below for the demo:
+```
+python DRML_demo_CUB.py
+```
+The demo loads the CUB dataset for training and evaluation.
 
 ## Authors
 Welcome to send us Emails if you have any questions about the code and our work :-)
