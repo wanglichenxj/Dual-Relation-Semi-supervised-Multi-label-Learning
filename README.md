@@ -29,7 +29,7 @@ We combine all components of our model in a single python file. We run our code 
 ```
 python DRML_demo_CUB.py
 ```
-The demo loads the CUB dataset for training and evaluation.
+The demo loads the CUB dataset for training and evaluation. If you cannot download the datasets, please try the another **Dataset Download** link [here](https://drive.google.com/drive/folders/1IFzr0grPR_15TvGDf4JXpNMh2iS_qohg?usp=sharing) for all 6 datasets of our experiments.
 
 ## Authors
 Welcome to send us Emails if you have any questions about the code and our work :-)
